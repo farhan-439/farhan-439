@@ -1,50 +1,27 @@
 ## Hi there 👋
 
-Hi there, I'm Farhan Mashrur 👋
-About Me
-I'm a sophomore at Cornell University double majoring in Computer Science and Economics with a passion for machine learning and financial technology. I enjoy building full-stack applications that solve real-world problems and exploring the intersection of quantitative analysis and economics.
-🎓 Education
+# Hi there 👋, I'm **Farhan Mashrur**
 
-Cornell University - B.A. in Computer Science and Economics (Expected May 2027)
-GPA: 3.851/4.0
+🎓 *Sophomore @ Cornell University ('27)*  
+Double major in **Computer Science** & **Economics**
 
-💻 Technical Skills
+---
 
-Languages: Java, Python, C/C++, OCaml, JavaScript, TypeScript, HTML, CSS, Assembly
-Frameworks/Libraries: React, NextJS, Vite.js, Node.js, TensorFlow, PyTorch, Scikit-learn
-Data Science: Pandas, NumPy, Matplotlib, Gaussian Mixture Models, PCA
-Backend & Databases: Flask, Spring Boot, MySQL, SQLite, Firebase, AWS (DynamoDB, S3)
-Tools: Git, Figma, Microsoft Office Suite
+## About Me
 
-🚀 Featured Projects
-Poultry Disease Detection (Cornell Hackathon Winner)
+- 📚 Passionate about machine learning and integrating quantitative analysis with financial economics  
+- 💻 Full-stack developer dedicated to building real-world problem-solving products  
+- 🚀 Always exploring new technologies and open to exciting collaboration opportunities
 
-Built an AI system detecting poultry diseases 3 days before onset with 94% accuracy
-Combined spectrogram analysis (CNN) and fecal image classification (MobileNetV3)
-Technologies: TensorFlow, PyTorch
+---
 
-OCaml Trader
+## Connect With Me
 
-Developed a stock trading simulation system with portfolio management
-Implemented async API calls using OCaml's Lwt for real-time market data
-Technologies: OCaml, Lwt, Financial APIs
+- [LinkedIn](https://www.linkedin.com/in/farhanmashrur)
+- [Email](mailto:fm454@cornell.edu)
 
-AceEducation
+Feel free to reach out for collaborations or just to say hi! 😊
 
-Created an interactive learning platform with course enrollment and secure payments
-Technologies: React, Firebase, NextJS, Stripe API
-
-🔭 Current Work
-
-Technical Team Lead at Cornell Data Strategy
-Teaching Assistant for CS 1340 under Professor Jon Kleinberg
-Software Developer at Cornell Fintech Club
-
-📫 How to Reach Me
-
-Email: fm454@cornell.edu
-LinkedIn: www.linkedin.com/in/farhanmashrur
-Phone: 607-327-7665
 
 🌱 I'm currently learning
 
