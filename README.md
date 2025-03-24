@@ -19,14 +19,4 @@ Double major in **Computer Science** & **Economics**
 - [LinkedIn](https://www.linkedin.com/in/farhanmashrur)
 - [Email](mailto:fm454@cornell.edu)
 
-Feel free to reach out for collaborations or just to say hi! 😊
-
-
-🌱 I'm currently learning
-
-Advanced machine learning techniques and their applications in finance
-Functional programming paradigms with OCaml
-Full-stack development with modern frameworks
-
-
 Feel free to explore my repositories and reach out if you'd like to collaborate on projects!
