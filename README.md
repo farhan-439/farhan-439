@@ -1,4 +1,4 @@
-# Farhan Mashrur
+## Farhan Mashrur
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/farhanmashrur)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:fm454@cornell.edu)
