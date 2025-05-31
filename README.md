@@ -1,9 +1,9 @@
-## Farhan Mashrur
+## Farhan Mashrur  
+*CS & Economics @ Cornell '27* | *Cofounder @ JobLink (https://joblink.one)* 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/farhanmashrur)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:fm454@cornell.edu)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/farhanmashrur)  [![Email](https://img.shields.io/badge/-Email-white?style=flat-square&logo=gmail)](mailto:fm454@cornell.edu)
 
-*CS & Economics @ Cornell '27*
+
 
 ## About Me
 
@@ -12,6 +12,6 @@
 - 🚀 Always exploring new technologies and open to exciting collaboration opportunities
 
 ### Current
-- 📊 Tech Lead @ Cornell Data Strategy
-- 📝 TA for CS 1340
-- 💹 Dev @ Cornell Fintech Club
+- 📊 Tech Lead @ Cornell Data Strategy  
+- 📝 TA for CS 1340  
+- 💹 Dev @ Cornell Fintech Club  
