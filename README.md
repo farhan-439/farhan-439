@@ -10,7 +10,7 @@
 ## About Me
 📚 Passionate about machine learning and integrating quantitative analysis with financial economics  
 💻 Full-stack developer dedicated to building real-world problem-solving products  
-
+🚀 Always exploring new technologies and open to exciting collaboration opportunities
 
 ## Experience
 - **Machine Learning Engineering Intern** @ [Simulacrum](https://www.smlcrm.com) *(Jun 2025 – Aug 2025)*
@@ -29,7 +29,6 @@
 **Databases:** MySQL, PostgreSQL, SQLite, Firebase, DynamoDB
 
 ## Achievements
-🏆 International Economics Olympiad Bronze Medals - [2022](https://www.thedailystar.net/youth/young-icons/global-achievements/news/team-bangladesh-wins-four-bronze-medals-intl-economics-olympiad-2152091) & [2023](https://www.thedailystar.net/shout/news/team-bangladesh-wins-silver-and-bronze-medals-the-international-economics-olympiad-2022-3102311)  
-🎯 [Hackathon Winner](https://www.linkedin.com/posts/farhanmashrur_i-am-very-thrilled-to-share-that-our-team-activity-7302084680705605632-d90o?utm_source=share&utm_medium=member_desktop) - Disease Detection Model  
-💼 Generated $1.6M+ business value across 8 industries through Cornell Data Strategy  
-🚀 JobLink accepted by [Beta University](https://www.betauniversity.org)
+• International Economics Olympiad Bronze Medals - [2022](https://www.thedailystar.net/youth/young-icons/global-achievements/news/team-bangladesh-wins-four-bronze-medals-intl-economics-olympiad-2152091) & [2023](https://www.thedailystar.net/shout/news/team-bangladesh-wins-silver-and-bronze-medals-the-international-economics-olympiad-2022-3102311)  
+• [Hackathon Winner](https://www.linkedin.com/posts/farhanmashrur_i-am-very-thrilled-to-share-that-our-team-activity-7302084680705605632-d90o?utm_source=share&utm_medium=member_desktop) - Disease Detection Model   
+• JobLink accepted by [Beta University](https://www.betauniversity.org)
