@@ -26,7 +26,7 @@
 
 ## Achievements
 
-• International Economics Olympiad Bronze Medals - [2022](https://www.thedailystar.net/youth/young-icons/global-achievements/news/team-bangladesh-wins-four-bronze-medals-intl-economics-olympiad-2152091) & [2023](https://www.thedailystar.net/shout/news/team-bangladesh-wins-silver-and-bronze-medals-the-international-economics-olympiad-2022-3102311)  
+• International Economics Olympiad Bronze Medals - [2021](https://www.thedailystar.net/youth/young-icons/global-achievements/news/team-bangladesh-wins-four-bronze-medals-intl-economics-olympiad-2152091) & [2022](https://www.thedailystar.net/shout/news/team-bangladesh-wins-silver-and-bronze-medals-the-international-economics-olympiad-2022-3102311)  
 • [Hackathon Winner](https://www.linkedin.com/posts/farhanmashrur_i-am-very-thrilled-to-share-that-our-team-activity-7302084680705605632-d90o?utm_source=share&utm_medium=member_desktop) - Disease Detection Model  
 • JobLink accepted by [Beta University](https://www.betauniversity.org)
 
