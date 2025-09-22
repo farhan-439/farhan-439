@@ -5,6 +5,10 @@
 
 **Visit my website:** [mashrurfarhan.com](https://mashrurfarhan.com)
 
+- Currently using **Bitbucket** for my Research Assistant Position at Cornell
+
+
+
 ---
 
 ## About Me
@@ -13,10 +17,10 @@
 • Full-stack developer dedicated to building real-world problem-solving products
 
 ## Experience
-
+- **Research Assistant, AEA Replication Lab** @ Cornell University (Aug 2025 – Present)
 - **Machine Learning Engineering Intern** @ [Simulacrum](https://www.smlcrm.com) *(Jun 2025 – Aug 2025)*
 - **Software Engineering Intern** @ [BRAC Bkash Limited](https://www.linkedin.com/company/bkash-limited/) *(Jun 2024 – Aug 2024)*
-- **Teaching Assistant** @ Cornell University *(Jan 2025 – Present)*
+- **Teaching Assistant** @ Cornell University *(Jan 2025 – May 2025)*
 
 ## Current Roles
 
