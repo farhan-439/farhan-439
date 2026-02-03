@@ -7,8 +7,6 @@
 
 - Currently using **Bitbucket** for my Research Assistant Position at Cornell
 
-
-
 ---
 
 ## About Me
@@ -17,16 +15,16 @@
 • Full-stack developer dedicated to building real-world problem-solving products
 
 ## Experience
-- **Research Assistant, AEA Replication Lab** @ Cornell University (Aug 2025 – Present)
+- **Software Engineering Intern** @ Microsoft (Incoming Summer 2026)
 - **Machine Learning Engineering Intern** @ [Simulacrum](https://www.smlcrm.com) *(Jun 2025 – Aug 2025)*
 - **Software Engineering Intern** @ [BRAC Bkash Limited](https://www.linkedin.com/company/bkash-limited/) *(Jun 2024 – Aug 2024)*
-- **Teaching Assistant** @ Cornell University *(Jan 2025 – May 2025)*
+
 
 ## Current Roles
+- **Teaching Assistant, Machine Learning : CS 3780** @ Cornell University (Jan 2026 - Present) 
+- **Research Assistant, AEA Replication Lab** @ Cornell University (Aug 2025 – Present)
 
-- **VP of Technology** @ [Cornell Data Strategy](https://cornelldatastrategy.com)
-- **Teaching Assistant** for CS 1340 @ Cornell University
-- **Developer** @ Cornell Fintech Club
+- **Vice President** @ [Cornell Data Strategy](https://cornelldatastrategy.com)
 
 ## Achievements
 
